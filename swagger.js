@@ -6,7 +6,7 @@ const doc = {
     description: 'API for managing contact information including friends and work colleagues.',
     version: '1.0.0',
   },
-  host: 'cse341-vwck.onrender.com',
+  host: 'cse341-p.onrender.com',
   schemes: ['https'],
   tags: [
     {
